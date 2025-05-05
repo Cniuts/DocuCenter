@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "初桐小栈的文档中心",
   "packageManager": "yarn@4.7.0",
-  "license": "MIT",
+  "license": "GPL-3.0-only",
   "engines": {
     "node": "^18.20.0 || >=20.0.0"
   },
