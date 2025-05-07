@@ -28,11 +28,11 @@ permalink: /notice/service-agreement/
   - 用户**评论互动**功能 
 
 ## 二、知识产权条款 
-
+s
 #### 2.1 网站源代码 
 
  - 主站及DocuBase源代码均**托管于GitHub平台** 
- - 采用**GNU GPLv3开源协议授权**（具体仓库地址：https://github.com/CniutsOfficial/CniutsOfficial.github.io 和 https://github.com/CniutsOfficial/DocuCenter） 
+ - 采用**GNU GPLv3开源协议授权**（具体仓库地址：https://github.com/Cniuts/Cniuts.github.io 和 https://github.com/Cniuts/DocuCenter） 
  - 用户可依据GPLv3协议规定进行**代码复制、修改及再分发等** 
 
 #### 2.2 内容版权
@@ -73,7 +73,7 @@ permalink: /notice/service-agreement/
  - 技术文档可能**存在滞后性**，不保证所有内容的**绝对正确性** 
  - 因**遵循文档操作**造成的损失运营方**不承担责任** 
 
-#### 4.3 第三方服务 - Waline评论数据存储于**独立数据库** 
+#### 4.3 第三方服务 - Valine评论数据存储于**独立数据库** 
 
  - 用户头像等信息**可能通过Gravatar服务获取** 
  - 资源下载涉及**第三方网盘的隐私政策及服务条款** 
@@ -82,7 +82,7 @@ permalink: /notice/service-agreement/
 
 #### 5.1 数据收集范围 
 
- - Valine系统收集：用户名、邮箱、IP地址、评论内容 
+ - Valine系统可能收集：用户名、邮箱、IP地址、评论内容 
  - Cloudflare自动收集：访问日志（含IP、UA、请求时间）
 
 #### 5.2 数据使用 
