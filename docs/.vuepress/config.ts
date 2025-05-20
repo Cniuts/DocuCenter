@@ -10,7 +10,7 @@ export default defineUserConfig({
 
   head: [
     // 配置站点图标
-    ['link', { rel: 'icon', type: 'image/png', href: './images/logo/logo_sqr_trans.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: './images/logo/DocuCenter.png' }],
   ],
 
   bundler: viteBundler(),
@@ -18,7 +18,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
-    hostname: 'https://docucenter.pages.dev/',
+    hostname: 'https://cniuts.github.io/DocuCenter/',
 
     /* 文档仓库配置，用于 editLink */
     // docsRepo: '',

@@ -6,7 +6,7 @@ import { notes } from './notes'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: './images/logo/logo_sqr_trans.png',
+  logo: './images/logo/DocuCenter.png',
   
   appearance: true,  // 配置 深色模式
 
@@ -38,7 +38,7 @@ export default defineThemeConfig({
    * @see https://theme-plume.vuejs.press/config/basic/#profile
    */
   profile: {
-    avatar: './images/logo/logo_sqr_trans.png',
+    avatar: './images/logo/DocuCenter.png',
     name: 'DocuCenter',
     description: '一个基于 VuePress Plume 主题的文档中心',
     circle: true,
